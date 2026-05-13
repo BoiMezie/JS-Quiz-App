@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <div id="start-screen" class="screen active">
+            <h1>Quiz Time!</h1>
+            <p>Test your knowledge with these fun questions</p>
+            <button id="start-btn">Start Quiz</button>
+        </div>
+
+
+        <div class="screen" id="quiz-screen">
+            <div class="quiz-header">
+                <h1 id="quiz-text">questions goes here</h1>
+                <div class="quiz-info">
+                    <p>Question <span id="current-question">1</span> of <span id="total-question">7</span></p>
+                    <p>
+                        Score: <span id="score">0</span>
+                    </p>
+                </div>
+            </div>
+            <div class="answer-container" id="answer-container">
+                <!-- Answers will be included via javascript -->
+            </div>
+            <div class="progress-bar">
+                <div class="progress" id="progress"></div>
+            </div>
+        </div>
+
+
+        <div class="screen" id="result-screen">
+            <h1>Quiz Results</h1>
+            <div class="result-verdicts">
+                <p>You scored <span id="total-score">20</span> out of <span id="max-score">1</span></p>
+                <h2 id="message">Words of wonder. If you need help</h2>
+            </div>
+            <button id="restart-btn">Restart Quiz</button>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
