@@ -36,10 +36,10 @@ git clone https://github.com/BoiMezie/JS-Quiz-App.git
 https://boimezie.github.io/JS-Quiz-App/
 
 ## 📸 Screenshot
-<img width="923" height="921" alt="Screenshot 2026-07-23 at 13 57 43" src="https://github.com/user-attachments/assets/86c70cbd-0856-423d-8819-a56b2fa0748f" />
-<img width="923" height="921" alt="Screenshot 2026-07-23 at 13 57 48" src="https://github.com/user-attachments/assets/faeb5b34-8ffd-4931-a81e-4607785bebcc" />
-<img width="923" height="921" alt="Screenshot 2026-07-23 at 13 59 30" src="https://github.com/user-attachments/assets/6d689fe2-1fb3-4b7d-aa5f-8739e7c60cd9" />
-<img width="923" height="921" alt="Screenshot 2026-07-23 at 13 58 01" src="https://github.com/user-attachments/assets/b87cf999-1343-4ab1-9f5e-b072823009e2" />
+<img width="923" height="921" alt="quiz-start" src="https://github.com/user-attachments/assets/86c70cbd-0856-423d-8819-a56b2fa0748f" />
+<img width="923" height="921" alt="quiz-questions" src="https://github.com/user-attachments/assets/faeb5b34-8ffd-4931-a81e-4607785bebcc" />
+<img width="923" height="921" alt="quiz-in-progress" src="https://github.com/user-attachments/assets/6d689fe2-1fb3-4b7d-aa5f-8739e7c60cd9" />
+<img width="923" height="921" alt="result-page" src="https://github.com/user-attachments/assets/b87cf999-1343-4ab1-9f5e-b072823009e2" />
 
 
 
