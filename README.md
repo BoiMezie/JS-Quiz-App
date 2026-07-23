@@ -59,17 +59,5 @@ Building this project helped reinforce:
 - Question categories
 - LocalStorage for high scores
 - Fetch questions from an external API
+- High score persistence
 - Dark mode
-
-## Github Description
-Interactive JavaScript quiz app with score tracking, progress indicator and dynamic question rendering.
-
-## Topics
-- javascript
-- quiz-app
-- frontend
-- html
-- css
-- dom
-- education
-- web-app
